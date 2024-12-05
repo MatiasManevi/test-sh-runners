@@ -20,4 +20,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: MatiasManevi/test-sh-runners:${{ github.sha }}
+          tags: matiasmanevi/test-sh-runners:${{ github.sha }}
